@@ -17,3 +17,36 @@ Here's what I took away:
 
 I also attended the Aurora Cohort Kickoff and both Orientation sessions, and I'm excited to meet the community and start building.
 TS Academy
+
+
+Day 2 of #30DaysOfTechwith@TSAcademy 
+10th Nov. 2026. 
+Today was my first live class in the Cybersecurity (Aurora) cohort, where I got the full roadmap for the next 4 to 5 months. Here are the highlights:
+
+The learning model
+
+Online, beginner to intermediate, accredited by ACTD
+Core outcomes: foundational security principles, networking and system operations, and how to identify, assess and mitigate cyber threats across systems and networks
+
+The 6-module path
+1. Foundations of Cybersecurity & Computing: the CIA Triad, AAA, threats vs. vulnerabilities vs. exploits, ethics, and Linux/Windows fundamentals
+
+2.Networking & Threat Fundamentals: OSI and TCP/IP, IP addressing, DNS, subnetting, and threats like DoS, spoofing and sniffing
+
+3.Defensive Security Operations: SOC structure, SIEM (Wazuh, Splunk), log analysis, and the NIST incident response lifecycle
+
+4.Offensive Security & Vulnerability Management: ethical hacking, PTES and OWASP, and vulnerability scanning
+
+5.Governance, Risk & Compliance: ISO 27001, NIST CSF, risk management, policies and audits
+
+6.Capstone Project, “Defend & Respond”: a team-based simulated breach and response challenge
+
+Tools: Kali Linux, Wireshark, Packet Tracer, Ubuntu, Wazuh, Splunk and more.
+
+Career pathways: SOC Analyst, Cybersecurity Analyst, Penetration Tester, Information Security Specialist and Network Security Engineer.
+
+My biggest takeaways:
+💡 Cybersecurity keeps evolving, so consistency and attendance matter.
+💡 Practice tasks should be done and documented. That habit builds a portfolio.
+💡 Assignments are required for certification, and the capstone teaches real collaboration.
+TS Academy 
