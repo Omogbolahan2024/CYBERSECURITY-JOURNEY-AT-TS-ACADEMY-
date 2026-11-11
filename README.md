@@ -50,3 +50,49 @@ My biggest takeaways:
 💡 Practice tasks should be done and documented. That habit builds a portfolio.
 💡 Assignments are required for certification, and the capstone teaches real collaboration.
 TS Academy 
+
+# Day 3 of 30: Foundations of Cybersecurity
+
+**Program:** 30 Days Learning Challenge, TS Academy
+**Topic:** What is Cybersecurity & Its Importance
+
+## What is Cybersecurity?
+Protecting computers, networks, applications, and data from people who want to steal, damage, or misuse them.
+
+## What are we protecting?
+| Asset | Examples |
+|---|---|
+| Devices | Phones, laptops, servers |
+| Networks | Wi-Fi, office networks |
+| Applications | Banking apps, websites, email |
+| Data | Passwords, photos, medical records |
+
+## The CIA Triad
+1. **Confidentiality**: only authorised people can access data
+2. **Integrity**: data remains accurate and unaltered
+3. **Availability**: systems and data are accessible when needed
+
+## Key Terms
+- **Threat**: anything that could cause harm
+- **Vulnerability**: a weakness that can be exploited
+- **Risk**: the chance a threat exploits a vulnerability
+- **Attack**: an actual attempt to cause harm
+- **Hackers**: White hat (ethical), Black hat (criminal), Grey hat (in between)
+
+## Why Cybersecurity is Important
+- Protects personal information
+- Protects businesses from financial and reputational loss
+- Protects critical services (hospitals, banks, power grids)
+- Protects national security
+- Almost everything is online now
+- Attacks keep growing
+- High demand for skilled professionals
+
+## Common Attacks
+- **Phishing**: fake messages that trick you into giving away information
+- **Malware**: harmful software such as viruses and spyware
+- **Ransomware**: locks files and demands payment
+- **Data breach**: theft of an organisation's data
+
+## Key Takeaway
+Every attack targets Confidentiality, Integrity, or Availability, and cybersecurity exists to defend all three.
