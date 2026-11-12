@@ -96,3 +96,40 @@ Protecting computers, networks, applications, and data from people who want to s
 
 ## Key Takeaway
 Every attack targets Confidentiality, Integrity, or Availability, and cybersecurity exists to defend all three.
+
+## Day 4: Preparing My Virtual Lab (12 Nov 2026)
+
+**Program:** TS Academy, Cybersecurity (Aurora Cohort)
+**Challenge:** #30DaysOfTech | #LearningWithTS Academy
+**Progress:** 27% complete (Week 1: 2/4 lessons)
+
+## Context
+After studying the foundations of cybersecurity, I reviewed the course curriculum,
+which outlines everything to be covered. The next lesson is the installation of
+VirtualBox and Kali Linux (live class: 14 Nov 2026), so I started preparing early.
+
+## What I Did
+- Test-ran Ubuntu on an existing VirtualBox installation
+- Ran some few Linux command (`ls`) in the Ubuntu terminal
+- Started setting up the Kali Linux download for installation as a VM
+
+## VM Configuration (Ubuntu-Security-Monitor)
+| Setting | Value |
+|---|---|
+| Memory | 4096 MB |
+| Processors | 2 |
+| Virtual disk | 40.56 GB (.vdi) |
+| Network | NAT (Intel PRO/1000 MT Desktop) |
+| Graphics | VBoxSVGA, 128 MB video memory |
+
+## Why a Virtual Machine?
+- Isolated environment, so experiments cannot harm the host system
+- Safe space to practise security tools
+- Easy to snapshot, reset and rebuild
+
+## Next Steps
+- Complete the Kali Linux download and install it in VirtualBox
+- Attend the live class on 14 Nov and compare my setup with the instructor's
+- Document the installation steps and any issues I run into<img width="1358" height="723" alt="03" src="https://github.com/user-attachments/assets/cd25f540-cdd8-4cb8-96ad-2c6b8665594a" />
+<img width="1365" height="767" alt="02" src="https://github.com/user-attachments/assets/8bd29109-91b4-42d4-a79f-9d56706ee769" />
+<img width="1352" height="579" alt="01" src="https://github.com/user-attachments/assets/625b1ed7-14e0-429d-a5a2-d7c8ced3eb19" />
